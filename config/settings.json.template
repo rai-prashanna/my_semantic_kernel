@@ -1,0 +1,7 @@
+{
+  "endpoint": "https://p/",
+  "model": "gpt-4",
+  "deploymentName": "gpt-4",
+  "apiKey": "333333333333333333"
+}
+
